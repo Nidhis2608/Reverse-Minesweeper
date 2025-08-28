@@ -16,8 +16,6 @@ Game ends when all bombs are discovered or exploded, showing total bombs found.
 
 git clone https://github.com/Nidhis2608/Reverse-Minesweeper
 
-cd reversed-minesweeper
-
 flutter pub get
 
 flutter run
