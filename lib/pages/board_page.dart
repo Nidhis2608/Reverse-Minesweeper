@@ -13,7 +13,7 @@ class BoardPage extends StatefulWidget {
 class _BoardPageState extends State<BoardPage> {
   static const int gridSize = 100;
   static const int numberOfPieces = 20;
-  static const int numberOfBombs = 4;
+  static const int numberOfBombs = 15;
   late Set<int> piecePosition;
   late Set<int> bombPosition;
   int bombCounter = 0;
